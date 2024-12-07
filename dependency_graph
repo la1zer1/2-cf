@@ -1,0 +1,13 @@
+digraph {
+	1 [label="Commit 1
+778f560"]
+	2 [label="Commit 2
+64acb0c"]
+	1 -> 2
+	3 [label="Commit 3
+db25305"]
+	2 -> 3
+	4 [label="Commit 4
+1220321"]
+	3 -> 4
+}
