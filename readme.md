@@ -94,7 +94,7 @@ npm install -g @mermaid-js/mermaid-cli
 Пример графа
 Пример Mermaid-графа для визуализации:
 
-```mermaid
+```csv
 digraph {
 	1 [label="Commit 1
 778f560"]
